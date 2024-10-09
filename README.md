@@ -4,7 +4,7 @@ In depth 15 hour python Deep learning fundamental tutorial
 Overview
 
 
-classification.py:
+classification.ipynb:
 Focuses on binary classification using synthetic circular data.
 Explores various neural network architectures, including different layers and activation functions.
 Evaluates models and visualizes decision boundaries for performance insights.
